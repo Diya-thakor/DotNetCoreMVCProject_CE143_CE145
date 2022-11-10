@@ -1,0 +1,330 @@
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.exe
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.deps.json
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.runtimeconfig.json
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.runtimeconfig.dev.json
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.pdb
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.AssemblyInfo.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\staticwebassets\OnlineDiscussionForum.StaticWebAssets.Manifest.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorTargetAssemblyInfo.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.csproj.CopyComplete
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.pdb
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.genruntimeconfig.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.Views.dll
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.Views.pdb
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorAssemblyInfo.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorAssemblyInfo.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.TagHelpers.input.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.TagHelpers.output.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorCoreGenerate.cache
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorTargetAssemblyInfo.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.Views.pdb
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\libman.json
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Logout.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Index.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Details.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Delete.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Create.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Edit.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Index.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Details.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Delete.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Edit.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Create.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\answerIndex.cshtml.g.cs
+D:\OneDrive\Documents\Sem5\WDDN(web development in .NET)\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\GetAnswers.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\libman.json
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.exe
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.deps.json
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.runtimeconfig.json
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.runtimeconfig.dev.json
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.pdb
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.Views.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\OnlineDiscussionForum.Views.pdb
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.csproj.AssemblyReference.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.AssemblyInfoInputs.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.AssemblyInfo.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.csproj.CoreCompileInputs.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorAssemblyInfo.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorAssemblyInfo.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\staticwebassets\OnlineDiscussionForum.StaticWebAssets.Manifest.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.TagHelpers.input.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.TagHelpers.output.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorCoreGenerate.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\answerIndex.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Create.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Delete.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Details.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Edit.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Answer\Index.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Create.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Delete.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Details.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Edit.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Question\Index.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Details.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\GetAnswers.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\User\Logout.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorTargetAssemblyInfo.cache
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.RazorTargetAssemblyInfo.cs
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.Views.pdb
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.csproj.CopyComplete
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.dll
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.pdb
+E:\SEM5\OnlineDiscussionForum\OnlineDiscussionForum\obj\Debug\netcoreapp3.1\OnlineDiscussionForum.genruntimeconfig.cache

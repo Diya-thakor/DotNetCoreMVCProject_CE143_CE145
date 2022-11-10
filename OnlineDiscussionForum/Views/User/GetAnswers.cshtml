@@ -1,0 +1,49 @@
+﻿@model OnlineDiscussionForum.Models.CollectionDataModel;
+@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor Accessor;
+@{
+    ViewData["Title"] = "GetAnswers";
+}
+<h3>@TempData["Question"]</h3>
+<a asp-action="Create" asp-controller="Answer" asp-route-id="@TempData["id"]">Give Answer</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>
+                Answer
+            </th>
+            <th>
+                Like
+            </th>
+            <th>
+                Author
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.answers) {
+        <tr>
+                <td>
+                    @if (item.status == "accepted")
+                    {
+
+                        <img src="~/lib/Images/trueIcon.jpg" height="30px" width="30px" />
+                    }
+                </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.text)
+            </td>
+            <td>
+                    <a asp-action="Like" asp-route-id="@item.Id" asp-route-qId="@item.QuestionId" style="none">+</a>
+                @Html.DisplayFor(modelItem => item.noOfLike)
+                    <a asp-action="UnLike" asp-route-id="@item.Id" asp-route-qId="@item.QuestionId" style="none">-</a>
+            </td>
+            <td>
+                 @Model._userRepo.GetUser(item.UserId).Name
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

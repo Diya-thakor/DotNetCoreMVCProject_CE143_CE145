@@ -1,0 +1,46 @@
+﻿@model CollectionDataModel
+
+@{
+    ViewData["Title"] = "Answers";
+}
+<h3>Questions Which answers given by you:</h3><br />
+@foreach (var item in Model.answers)
+{
+    @foreach (var question in Model.Questions)
+    {
+        if (question.Id == item.QuestionId)
+        {
+            <h4>@Html.DisplayFor(modelItem => item.Question.text)
+                <b class="blockquote-footer">@Model._userRepo.GetUser(question.userId).Name</b>
+            </h4>
+        }
+    }
+    <br />
+    <div class="row">
+        <div class="col-md-1">
+            <li style="list-style-type:none">
+                @if (item.status == "accepted")
+                {
+                    <img src="~/lib/Images/trueIcon.jpg" height="30px" width="30px" />
+                }
+            </li>
+            <li style="list-style-type:none">
+                <b>@Html.DisplayFor(modelItem => item.noOfLike)<img src="~/lib/Images/Like.jpg" height="33px" width="33px" /></b>
+            </li>
+            
+        </div>
+        <div class="col-md-11">
+            <li style="list-style-type:none">
+            @Html.DisplayFor(modelItem => item.text)
+            </li>
+            <li style="list-style-type:none">
+            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </li>
+        </div>
+        
+        
+    </div>
+    <br />
+}

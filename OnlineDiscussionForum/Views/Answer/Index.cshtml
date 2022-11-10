@@ -1,0 +1,49 @@
+﻿@model IEnumerable<OnlineDiscussionForum.Models.Answer>
+
+@{
+    ViewData["Title"] = "Index";
+    string questionId = Context.Request.Query["id"].ToString();
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.noOfLike)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            @if (item.QuestionId == Int32.Parse(questionId))
+            {
+                <tr>
+                    <td>
+                @Html.DisplayFor(modelItem => item.text)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.noOfLike)
+            </td>
+            <td>
+                @if(item.status != "accepted"){
+                    <a class="btn btn-primary" asp-action="markStatus" asp-route-id="@item.Id">Accept the answer</a>
+                }
+            </td>
+            
+        </tr>
+        }
+}
+        
+    </tbody>
+    <a asp-controller="Question" asp-action="index">Go back to questions list</a>
+</table>

@@ -1,0 +1,44 @@
+﻿@model OnlineDiscussionForum.Models.CollectionDataModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3 class="text-primary">Welcome To Online Discussion Forum </h3>
+
+<p>
+    <a asp-controller="Question" asp-action="Create">Ask a Question</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Question
+            </th>
+            <th>
+                Author
+            </th>
+            <th>Answer's Info</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Questions)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.text)
+                </td>
+                <td>
+
+                    @Model._userRepo.GetUser(item.userId).Name
+                </td>
+                <td>
+                    <a asp-action="Create" asp-controller="Answer" asp-route-id="@item.Id">Give Answer</a>
+                </td>
+                <td>
+                    <a asp-action="GetAnswers" asp-route-id="@item.Id">Show All Answers</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

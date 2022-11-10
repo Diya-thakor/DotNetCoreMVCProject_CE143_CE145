@@ -1,0 +1,53 @@
+﻿@model CollectionDataModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<p>
+    <a asp-action="Create" class="btn btn-primary">Ask a question</a>
+</p>
+<br/>
+<h2>Questions Asked by you:</h2>
+@foreach (var item in Model.Questions) {
+    <br />
+    <br />
+    <h4>
+    @Html.DisplayFor(modelItem => item.text)
+    &nbsp; &nbsp;
+    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>|
+    <a asp-action="Details" asp-route-id="@item.Id">Details</a>|
+        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+    </h4>
+    <br />
+    <h6>Answers:</h6>
+     
+        @foreach(var answer in Model.answers){
+            @if(answer.QuestionId == item.Id){
+                <br />
+                <div class="row">
+                    <div class="col-md-1">
+                        <li style="list-style-type:none">
+                        @if (answer.status == "accepted")
+                        {
+                            <img src="~/lib/Images/trueIcon.jpg" height="30px" width="30px" />
+                        }
+                        </li>
+                    <li style="list-style-type:none">
+                            @Html.DisplayFor(modelItem => answer.noOfLike)<img src="~/lib/Images/Like.jpg" height="33px" width="33px" />
+
+                        </li>
+                    </div>
+                <div class="col-md-11">
+                    <li style="list-style-type:none">
+                        @Html.DisplayFor(modelItem => answer.text)
+                        </li>
+                    <li style="list-style-type:none">
+                        <b class="blockquote-footer">@Model._userRepo.GetUser(answer.UserId).Name</b>
+                    </li>
+
+                    </div>
+                
+                </div>
+            }
+        }   
+}
